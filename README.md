@@ -1,4 +1,4 @@
-# AnaliseDeSentimentosComLanguageStudioNoAzureAI
+# Analise De Sentimentos Com Language Studio No Azure AI
 DIO course Randstad - Análise de Dados / 01/10/2025 dd/mm/yy
 
 # Language Studio: https://language.cognitive.azure.com/
@@ -36,4 +36,5 @@ Reconhecimento e síntese de fala:
 
 # Links:
 https://aka.ms/ai900-speech/
-https://aka.ms/ai900-text-analysis
+
+https://aka.ms/ai900-text-analysis/
