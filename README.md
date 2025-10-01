@@ -27,3 +27,13 @@ Recebe Frase:
 -Conectividade através de vários canais
 
 # Compreensão da linguagem coloquial:
+
+IA compreender a linguagem falada / do dia a dia
+
+Reconhecimento e síntese de fala:
+
+-Serviço de Fala (gerar fala audível a partir de texto)
+-
+# Links:
+https://aka.ms/ai900-speech/
+https://aka.ms/ai900-text-analysis
